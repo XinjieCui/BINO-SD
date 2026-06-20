@@ -1,4 +1,12 @@
-# Bayesian Inverse Neural Operator for Darcy Coefficient Inversion
+# BINO-SD
+
+Official source code for the ICANN 2026 paper:
+
+**Beyond Smooth Darcy: Evaluation Changes the Conclusion in Sparse-Sensor Inverse Learning**
+
+This repository contains the reproducible experiment code for the paper, including
+Darcy benchmark generation, sparse-sensor inverse learning, evaluation scripts, and
+paper-table utilities.
 
 This project is a minimal landing implementation for the first item in `PDE.txt`:
 
